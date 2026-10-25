@@ -1,0 +1,9 @@
+{
+  "id": "inpage-mermaid-zoom",
+  "name": "In-Page Mermaid Zoom",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Ctrl+Scroll zoom and drag-pan for Mermaid flowcharts.",
+  "author": "Local",
+  "isDesktopOnly": true
+}
